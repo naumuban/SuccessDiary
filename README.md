@@ -1,2 +1,2 @@
-# SuccessDiary
-成就日记
+# AlwaysNote
+AlwaysNote 记记
