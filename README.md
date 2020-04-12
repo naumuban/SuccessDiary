@@ -1,2 +1,1 @@
-# AlwaysNote
-AlwaysNote 记记
+# 成功日记
